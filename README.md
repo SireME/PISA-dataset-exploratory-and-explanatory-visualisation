@@ -16,7 +16,7 @@ The PISA 2012 dataset is a huge dataset comprising approximately 635 variables h
 Preliminary wrangling mainly comprised of renaming the variables of interest to more descriptive names and deleting dupilcates that were observed. 
 Along the data exploration path, cleaning was further done to remove spaces in certain a category that allowed for further generation of visualisations.  
 ## Structure  
-This analyis comprised of both exploratory and explanatory analyis coupled with neccesay visualisations. The notebook progress can also be viewed on kaggle [HERE](https://www.kaggle.com/code/mbangernest/part-i-exploration-template)
+This analyis comprised of both exploratory and explanatory analyis coupled with neccesay visualisations. the slide deck notebook comprises the exploratory aspect of the analysis. The notebook progress can also be viewed on kaggle [HERE](https://www.kaggle.com/code/mbangernest/part-i-exploration-template)
 
 
 ## Summary of Findings
